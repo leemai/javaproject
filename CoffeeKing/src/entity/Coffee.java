@@ -5,7 +5,7 @@ public class Coffee {
   private double price;
 
   public Coffee() {
-      this("",0);
+      this("Cappucino",8.0);
   }
 
   public Coffee(String name, double price) {
